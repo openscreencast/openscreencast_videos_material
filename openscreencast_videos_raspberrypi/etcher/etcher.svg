@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   id="svg7831"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="etcher.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/paul/etcher_outro.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs7833">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 384 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1024 : 384 : 1"
+       inkscape:persp3d-origin="512 : 256 : 1"
+       id="perspective7839" />
+    <inkscape:perspective
+       id="perspective2848"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76"
+     inkscape:cx="694.72635"
+     inkscape:cy="418.96124"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect7841"
+       width="1280"
+       height="720"
+       x="0"
+       y="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.23046303px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="674.16541"
+       y="73.126503"
+       id="text7843"
+       transform="scale(0.9454028,1.0577502)"><tspan
+         sodipodi:role="line"
+         x="679.13666"
+         y="73.126503"
+         id="tspan3007">Screencast: </tspan><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="112.16458"
+         id="tspan3360">Raspbian oder andere Abbilder sehr einfach mit Etcher auf eine SD-Karte schreiben</tspan><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="151.20267"
+         id="tspan3001" /><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="190.24074"
+         id="tspan2834">www.openscreencast.de</tspan><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="229.27882"
+         id="tspan7851" /><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="268.31689"
+         id="tspan7855">Ausgangspunkt: Linux Mint 18.1</tspan><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="307.35498"
+         id="tspan3011" /><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="346.39307"
+         id="tspan2836">Datum: 03.03.2017</tspan><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="385.43112"
+         id="tspan7865" /><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="424.46921"
+         id="tspan7857">Lizenz: Creative Commons by</tspan><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="463.50729"
+         id="tspan2838">http://creativecommons.org/licenses/by/3.0/</tspan><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="502.54538"
+         id="tspan2999" /><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="541.58344"
+         id="tspan3002">Textquelle: http://www.bitblokes.de</tspan><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="580.62152"
+         id="tspan3356">	Raspbian oder andere Abbilder sehr einfach mit Etcher auf eine SD-Karte schreiben</tspan><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="610.95752"
+         id="tspan3012"
+         style="font-size:22.5px">https://www.bitblokes.de/2016/11/raspbian-oder-andere-abbilder-sehr-einfach-mit-etcher-auf-eine-sd-karte-schreiben/</tspan><tspan
+         sodipodi:role="line"
+         x="679.13666"
+         y="647.78461"
+         id="tspan3014">Lizenz: http://creativecommons.org/licenses/by/3.0/ </tspan><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="686.82269"
+         id="tspan3004" /><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="725.86078"
+         id="tspan3057" /><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="764.89886"
+         id="tspan7861" /><tspan
+         sodipodi:role="line"
+         x="674.16541"
+         y="803.93695"
+         id="tspan4096" /></text>
+  </g>
+</svg>
