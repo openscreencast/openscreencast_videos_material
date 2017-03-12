@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   id="svg7831"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="minecraft_installieren_linuxmint.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/paul/todo/klassen_o.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs7833">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4159">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4161" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4163" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 384 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1024 : 384 : 1"
+       inkscape:persp3d-origin="512 : 256 : 1"
+       id="perspective7839" />
+    <inkscape:perspective
+       id="perspective2848"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4159"
+       id="linearGradient4165"
+       x1="174.97841"
+       y1="480.01749"
+       x2="478.49403"
+       y2="480.01749"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76"
+     inkscape:cx="560.05114"
+     inkscape:cy="340.36675"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1378"
+     inkscape:window-height="886"
+     inkscape:window-x="540"
+     inkscape:window-y="165"
+     inkscape:window-maximized="0"
+     showguides="false" />
+  <metadata
+     id="metadata7836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect7841"
+       width="1280"
+       height="720"
+       x="0"
+       y="0"
+       ry="0" />
+    <g
+       id="g3448-2"
+       transform="matrix(-2.8052274,0,0,-2.8052274,726.64203,642.08624)">
+      <text
+         id="text3438-8"
+         font-weight="bold"
+         font-size="5px"
+         y="115"
+         x="0"
+         style="font-weight:bold;font-size:5px;font-family:'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif;fill:#000000" />
+      <text
+         id="text3440-2"
+         font-weight="bold"
+         font-size="5px"
+         y="120"
+         x="0"
+         style="font-weight:bold;font-size:5px;font-family:'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif;fill:#000000" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4255-7-9"
+       width="1352.6316"
+       height="273.6842"
+       x="-128.78947"
+       y="169.15791"
+       ry="62.200954" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="50.736839"
+       y="240.73685"
+       id="text4167"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="50.736839"
+         y="240.73685"
+         id="tspan3392"
+         style="font-size:30px">&gt; sudo mkdir -p /opt/minecraft/bin</tspan><tspan
+         sodipodi:role="line"
+         x="50.736839"
+         y="278.23685"
+         id="tspan3394"
+         style="font-size:30px">&gt; sudo wget -O /opt/minecraft/bin/Minecraft.jar \</tspan><tspan
+         sodipodi:role="line"
+         x="50.736839"
+         y="315.73685"
+         style="font-size:30px"
+         id="tspan3400">    http://s3.amazonaws.com/Minecraft.Download/launcher/Minecraft.jar</tspan><tspan
+         sodipodi:role="line"
+         x="50.736839"
+         y="353.23685"
+         id="tspan3396"
+         style="font-size:30px">&gt; sudo chown -R &lt;username&gt;:&lt;username&gt; /opt/minecraft/</tspan><tspan
+         sodipodi:role="line"
+         x="50.736839"
+         y="390.73685"
+         id="tspan3398"
+         style="font-size:30px">&gt; java -jar /opt/minecraft/bin/Minecraft.jar</tspan><tspan
+         sodipodi:role="line"
+         x="50.736839"
+         y="428.23685"
+         style="font-size:30px"
+         id="tspan3414" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="255.80078"
+       y="118.6842"
+       id="text4175"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="255.80078"
+         y="118.6842"
+         id="tspan4179"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Linux Mint - Minecraft installieren</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="69.736839"
+       y="292.36841"
+       id="text3402"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3404"
+         x="69.736839"
+         y="292.36841"></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4255-7-9-2"
+       width="1352.6316"
+       height="197.36842"
+       x="-131.57893"
+       y="483.92108"
+       ry="44.856457" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="51.630081"
+       y="484.69742"
+       id="text4167-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="51.630081"
+         y="484.69742"
+         id="tspan3398-5"
+         style="font-size:30px" /><tspan
+         sodipodi:role="line"
+         x="51.630081"
+         y="522.19739"
+         style="font-size:30px"
+         id="tspan3408-6" /><tspan
+         sodipodi:role="line"
+         x="51.630081"
+         y="559.69745"
+         style="font-size:30px"
+         id="tspan3410-2">&gt; sudo add-apt-repository ppa:minecraft-installer-peeps/minecraft-installer</tspan><tspan
+         sodipodi:role="line"
+         x="51.630081"
+         y="597.19745"
+         style="font-size:30px"
+         id="tspan3412-9">&gt; sudo apt-get update</tspan><tspan
+         sodipodi:role="line"
+         x="51.630081"
+         y="634.69745"
+         style="font-size:30px"
+         id="tspan3414-1">&gt; sudo apt-get install minecraft-installer</tspan></text>
+  </g>
+</svg>
